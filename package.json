@@ -1,10 +1,10 @@
 {
-  "name": "jano",
+  "name": "Yaxi",
   "version": "2.1.0",
-  "description": "jano",
-  "main": "jano.js",
+  "description": "Yaxi",
+  "main": "Yaxi.js",
   "scripts": {
-    "start": "node jano.js"
+    "start": "node Yaxi.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
